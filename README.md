@@ -1,4 +1,4 @@
 # React
 
-This is a to-do application I am building to learn React better
-I am following this tutorial : https://www.kirupa.com/react/simple_todo_app_react.htm
+This is a simle Todo application in react.
+I am following this tutorial to built it: https://www.kirupa.com/react/simple_todo_app_react.htm
